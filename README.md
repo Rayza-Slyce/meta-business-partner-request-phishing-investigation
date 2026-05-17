@@ -1,7 +1,7 @@
 # Meta Business Partner Request Phishing Investigation
 
 **Date:** 17 May 2026  
-**Investigator:** Rayza  
+**Investigator:** Rayza-Slyce
 **Investigation type:** Phishing / Meta Business impersonation / platform abuse  
 **Status:** Investigated and prepared for abuse reporting
 
